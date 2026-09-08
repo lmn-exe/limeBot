@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 discord.log
+tasks.db
